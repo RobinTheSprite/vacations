@@ -5,6 +5,9 @@
 ### Country Resources
 [France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](countries/Nederland.md) - [Denmark](countries/Denmark.md)
 
+### Logistics
+[Schedule](Schedule.md) - [Transportation](Transportation.md)
+
 ### Origin of the trip
 
 In 2020, our plan to take three weeks bike touring through in Greece fell through due to the pandemic. We took a consolation trip down the McCarthy road instead, but we never ended up going to Greece. By the summer of 2022, it had been four years since our last tour, which was in Scotland.
@@ -33,6 +36,8 @@ It cannot be denied that "Calais to Copenhagen" has a ring to it, no? It is the 
 This number includes miles traveled by train.
 
 ### Proposed Cities
+See this page for a more detailed schedule: [Schedule](Schedule.md)
+
 - **France**
 	- Calais
 - **Belgium**

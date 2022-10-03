@@ -1,4 +1,6 @@
 # Full Trip Schedule
+This will fill out more and more as trip planning continues.
+
 Interestingly, [this guy](https://www.bikemap.net/en/r/9617138/#5.46/52.423/6.959) seems to have done a route sort of like ours.
 
 Incredible [route planner here](https://www.hollandcyclingroutes.com/online-cycle-route-planner)
