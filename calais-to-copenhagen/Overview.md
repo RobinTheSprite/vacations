@@ -2,6 +2,9 @@
 ## A Bike Tour through Five Countries*
 \* Including those seen only by train
 
+### Country Resources
+[France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](countries/Nederland.md) - [Denmark](countries/Denmark.md)
+
 ### Origin of the trip
 
 In 2020, our plan to take three weeks bike touring through in Greece fell through due to the pandemic. We took a consolation trip down the McCarthy road instead, but we never ended up going to Greece. By the summer of 2022, it had been four years since our last tour, which was in Scotland.
@@ -56,9 +59,3 @@ This number includes miles traveled by train.
 [Calais to Groningen](https://www.google.com/maps/dir/Calais/Bruges/Ghent/Brussels/Antwerp/Rotterdam/The+Hague/Utrecht/Amsterdam/Groningen/@53.4419201,4.4817618,6z/data=!4m63!4m62!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.858686!2d50.95129!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2247552!2d51.2091807!1m5!1m1!1s0x47c370e1339443ad:0x40099ab2f4d5140!2m2!1d3.7303351!2d51.0500182!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!2m2!1d4.4051485!2d51.2213404!1m5!1m1!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!2m2!1d4.3006999!2d52.0704978!1m5!1m1!1s0x47c66f4339d32d37:0xd6c8fc4c19af4ae9!2m2!1d5.1214201!2d52.0907374!1m5!1m1!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!2m2!1d4.9041389!2d52.3675734!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!3e1!4e1)
 
 [Groningen to Copenhagen](https://www.google.com/maps/dir/Groningen/Hamburg/Kolding/Copenhagen/@54.5199416,8.884797,6.75z/data=!4m27!4m26!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!1m5!1m1!1s0x47b161837e1813b9:0x4263df27bd63aa0!2m2!1d9.9936819!2d53.5510846!1m5!1m1!1s0x464ca02a01dd95a9:0xea8de3fa6eefccfd!2m2!1d9.4730519!2d55.495973!1m5!1m1!1s0x4652533c5c803d23:0x4dd7edde69467b8!2m2!1d12.5683372!2d55.6760968!3e1!4e1)
-
-### Country Resources
-- [France](countries/France.md)
-- [Belgium](countries/Belgium.md)
-- [Nederland](countries/Nederland.md)
-- [Denmark](countries/Denmark.md)
