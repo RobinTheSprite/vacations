@@ -58,7 +58,7 @@ This number includes miles traveled by train.
 [Groningen to Copenhagen](https://www.google.com/maps/dir/Groningen/Hamburg/Kolding/Copenhagen/@54.5199416,8.884797,6.75z/data=!4m27!4m26!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!1m5!1m1!1s0x47b161837e1813b9:0x4263df27bd63aa0!2m2!1d9.9936819!2d53.5510846!1m5!1m1!1s0x464ca02a01dd95a9:0xea8de3fa6eefccfd!2m2!1d9.4730519!2d55.495973!1m5!1m1!1s0x4652533c5c803d23:0x4dd7edde69467b8!2m2!1d12.5683372!2d55.6760968!3e1!4e1)
 
 ### Country Resources
-[France](France.md)
-[Belgium](Belgium.md)
-[Nederland](Nederland.md)
-[Denmark](Denmark.md)
+[France](countries/France.md)
+[Belgium](countries/Belgium.md)
+[Nederland](countries/Nederland.md)
+[Denmark](countries/Denmark.md)
