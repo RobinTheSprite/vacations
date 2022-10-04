@@ -1,6 +1,12 @@
-## Overview
+## [Overview](./Overview.md)
 
 # Attractions
+
+## Neighborhood Guides
+- Chinatown [(map)](https://www.google.com/maps/place/Old+Town,+Portland,+OR/@45.5253147,-122.6770211,1560m/data=!3m2!1e3!4b1!4m5!3m4!1s0x5495a0aa760d4f55:0x832a930e6fa4a44c!8m2!3d45.5259688!4d-122.6744951) [(guide)](https://www.travelportland.com/neighborhoods/old-town-chinatown/)
+- Central Eastside [(map)](https://www.google.com/maps/place/Central+Eastside,+Portland,+OR+97214/@45.5165584,-122.6714532,3120m/data=!3m3!1e3!4b1!5s0x54950a686548fdfb:0x7ac22dbbaf8d82c0!4m12!1m6!3m5!1s0x54950b7e8cffd625:0x2d4ba3b3f60092cc!2sPortland+Aerial+Tram+-+Lower+Terminal!8m2!3d45.4992783!4d-122.6709577!3m4!1s0x5495a0a0a7b92725:0x10df280cdb750ec7!8m2!3d45.5165456!4d-122.6626968) [(guide)](https://www.travelportland.com/neighborhoods/central-eastside/)
+- Downtown [(map)](https://www.google.com/maps/@45.517855,-122.6740529,2640m/data=!3m1!1e3) [(guide)](https://www.travelportland.com/neighborhoods/downtown/)
+
 ## Stores
 
 - Powell's Books [(map)](https://www.google.com/maps/place/Powell's+City+of+Books/@45.5230669,-122.7020694,14z/data=!4m9!1m2!2m1!1sPowell's+Books!3m5!1s0x54950a03b7b42a07:0x60d8820872cc912f!8m2!3d45.5230654!4d-122.6812454!15sCg5Qb3dlbGwncyBCb29rcyIDiAEBWhAiDnBvd2VsbCdzIGJvb2tzkgEKYm9va19zdG9yZeABAA) [(website)](https://www.powells.com/locations/powells-city-of-books)
@@ -27,3 +33,5 @@
 ## Interesting Places
 - [Tilikum Crossing Bridge](https://www.google.com/maps/place/Tilikum+Crossing+Bridge/@45.5064529,-122.6683277,1362m/data=!3m1!1e3!4m12!1m6!3m5!1s0x54950a72e8b112d1:0xd074694827faf84c!2sOregon+Museum+of+Science+and+Industry+(OMSI)!8m2!3d45.5083863!4d-122.6660136!3m4!1s0x54950a6ddd94b151:0x40f5de053433ee8b!8m2!3d45.5049202!4d-122.6670299)
 	- Car free bridge for trains and people
+- [Aerial Tram](https://www.google.com/maps/place/Portland+Aerial+Tram+-+Lower+Terminal/@45.4992465,-122.6736503,1312m/data=!3m2!1e3!5s0x54950a686548fdfb:0x7ac22dbbaf8d82c0!4m5!3m4!1s0x54950b7e8cffd625:0x2d4ba3b3f60092cc!8m2!3d45.4992783!4d-122.6709577)
+- The RDI Office, lol [(map)](https://www.google.com/maps/place/Resource+Data/@45.5204707,-122.6867907,780m/data=!3m3!1e3!4b1!5s0x54950a1cad42dc8d:0x99d04b58f52aa4d9!4m5!3m4!1s0x54950a1cad34a04d:0x94f0d0abcc58d2ca!8m2!3d45.520467!4d-122.684602)
