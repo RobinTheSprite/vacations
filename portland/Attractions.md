@@ -8,13 +8,15 @@
 - Downtown [(map)](https://www.google.com/maps/@45.517855,-122.6740529,2640m/data=!3m1!1e3) [(guide)](https://www.travelportland.com/neighborhoods/downtown/)
 - Pearl District [(map)](https://www.google.com/maps/place/Pearl+District,+Portland,+OR/@45.5304531,-122.6893647,15z/data=!3m1!4b1!4m5!3m4!1s0x549509fe42c62a61:0xbf294ba55f24a8a6!8m2!3d45.5300496!4d-122.684412) [(guide)](https://www.travelportland.com/neighborhoods/pearl-district/)
 
-## Stores
+## Shopping
 
 - Powell's Books [(map)](https://www.google.com/maps/place/Powell's+City+of+Books/@45.5230669,-122.7020694,14z/data=!4m9!1m2!2m1!1sPowell's+Books!3m5!1s0x54950a03b7b42a07:0x60d8820872cc912f!8m2!3d45.5230654!4d-122.6812454!15sCg5Qb3dlbGwncyBCb29rcyIDiAEBWhAiDnBvd2VsbCdzIGJvb2tzkgEKYm9va19zdG9yZeABAA) [(website)](https://www.powells.com/locations/powells-city-of-books)
 	- There's also a location here: [(map)](https://www.google.com/maps/place/Powell's+Books+on+Hawthorne/@45.5148879,-122.6496268,14z/data=!4m9!1m2!2m1!1sPowell's+Books!3m5!1s0x5495a08d84e852e5:0x9696aebb3d5dbf0a!8m2!3d45.5121614!4d-122.6253414!15sCg5Qb3dlbGwncyBCb29rcyIDiAEBWhAiDnBvd2VsbCdzIGJvb2tzkgEKYm9va19zdG9yZeABAA)
 - [Antiques Stores](https://www.travelportland.com/attractions/antiquing-portland/)
 - NW 23rd Ave [(map)](https://www.google.com/maps/place/NW+23rd+Ave,+Portland,+OR+97210/@45.5316424,-122.6966486,16.5z/data=!4m5!3m4!1s0x549509e569238a95:0x31f30d3d11cf540a!8m2!3d45.5319207!4d-122.698686)
 - N Mississippi [(map)](https://www.google.com/maps/place/N+Mississippi+Ave,+Portland,+OR/@45.5579518,-122.6744341,13.75z/data=!4m5!3m4!1s0x5495a7085482a1eb:0xb503cf583c1d41ff!8m2!3d45.561149!4d-122.675996)
+- Portland Saturday Market [(map)](https://www.google.com/maps/place/Portland+Saturday+Market/@45.5226651,-122.6719355,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a0740d78e0d:0x5dfa6e36541ddf16!8m2!3d45.5226614!4d-122.6697468)
+- Hawthorne Blvd [(map)](https://www.google.com/maps/place/SE+Hawthorne+Blvd,+Portland,+OR/@45.5120555,-122.6279242,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a0f6d93c2833:0x22613c276ccb3df3!8m2!3d45.5120518!4d-122.6257355)
 
 ## Walks and Nature [(guide)](https://www.travelportland.com/culture/portlands-best-spots-for-fall-color/)
 

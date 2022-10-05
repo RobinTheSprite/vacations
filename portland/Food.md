@@ -23,9 +23,27 @@
 	- The pictures look insane
 	- Prices are anecdotally low
 	- Not really that interesting of a neighborhood, though
-- 
+- Apizza Scholls [(map)](https://www.google.com/maps/place/Apizza+Scholls/@45.5160594,-122.6184418,15.25z/data=!4m5!3m4!1s0x5495a0f393c573a1:0xfdc1361a64a657fc!8m2!3d45.5121186!4d-122.6131304) [(menu)](http://www.apizzascholls.com/Menus/)
+	- $20-30
+	- Thin crust, NY style pizza
+- Luc Lac [(map)](https://www.google.com/maps/place/Luc+Lac+Vietnamese+Kitchen/@45.5168997,-122.6769641,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a0f764a32a5:0xa4715d2a98044fa3!8m2!3d45.5168274!4d-122.6753413) [(menu)](https://luclackitchen.com/#menu)
+	- $10-15
+	- Vietnamese food
+- Mediterranean Exploration Company [(map)](https://www.google.com/maps/place/Mediterranean+Exploration+Company/@45.5256049,-122.6866671,17z/data=!3m2!4b1!5s0x549509f899734b45:0x66c2b8fa4e53016d!4m5!3m4!1s0x549509f8a20813e9:0xc374b2a1e131b98d!8m2!3d45.5256012!4d-122.6844784) [(menu)](https://static1.squarespace.com/static/5efbc4a992e6203a31079cf3/t/6332208d6fe5af7758369af0/1664229517954/9-21-22+MEC+Dinner+Menu.pdf)
+	- $15-25
+	- Middle Eastern food
+	- Strikes me as upscale and chic, but prices dont seem reasonable?
+- Huber's Cafe [(map)](https://www.google.com/maps/place/Huber's+Cafe/@45.5201268,-122.6769068,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a0678ec2433:0xa16ab91c11362c40!8m2!3d45.5201231!4d-122.6747181) [(menu)](https://www.google.com/maps/place/Huber's+Cafe/@45.5201268,-122.6769068,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a0678ec2433:0xa16ab91c11362c40!8m2!3d45.5201231!4d-122.6747181)
+	- $10-20
+	- Oldest restaurant in the city
+	- Also does dinner
 
 ### Expensive
+- Higgins [(map)](https://www.google.com/maps/place/Higgins/@45.5155757,-122.6841887,17z/data=!3m2!4b1!5s0x54950a1077aac881:0xbb39f57b427c8c61!4m5!3m4!1s0x54950a1a82ca49e9:0xf1d9d1cf3737e70d!8m2!3d45.515572!4d-122.682) [(menu)](https://higginsportland.com/dinner-menu/)
+	- $30-50
+	- Described to me as "farm-to-table," very fresh local ingredients
+- Southpark Seafood [(map)](https://www.google.com/maps/place/Southpark+Seafood/@45.518078,-122.6845604,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a1ad7e93d31:0x5d9274d490482819!8m2!3d45.5180743!4d-122.6823717) [(menu)](https://southparkseafood.com/portland-downtown-southpark-seafood-food-menu)
+	- $16-40
 - Portland City Grill [(map)](https://www.google.com/maps/place/Portland+City+Grill/@45.5221732,-122.6750677,17z/data=!3m1!5s0x54950bbb2dc62f5f:0x31c8e33f2abf6b51!4m5!3m4!1s0x54950a06b0fad621:0x60ea32db79c16dcc!8m2!3d45.5222146!4d-122.6759475)[(menu)](https://www.portlandcitygrill.com/menus/) 
 	- $30-80
 	- Penthouse restaurant
@@ -48,6 +66,12 @@
 	- It's a feckin mead hall
 	- It also does leather work
 	- A bit far but worth it I think
+- [Wayfinder](https://www.google.com/maps/place/Wayfinder+Beer/@45.520663,-122.6658397,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a0a7c5ac0b11:0xa76a2b89f0a52928!8m2!3d45.5206593!4d-122.663651)
+	- Specializes in lagers
+- [Away Days](https://www.google.com/maps/place/Away+Days+Brewing+Co/@45.5119903,-122.6576904,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a198315a1763:0x8e2808c478307403!8m2!3d45.5119731!4d-122.6555745)
+	- Also does food
+- [Belmont Station](https://www.google.com/maps/place/Belmont+Station/@45.5190975,-122.6181583,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a0eeef65853d:0xd734a8e123c01149!8m2!3d45.5190938!4d-122.6159307)
+	- Beer store, ~1200 beers in stock
 
 ## Coffee
 - [40 LBS](https://www.google.com/maps/place/40+LBS/@45.5153365,-122.6729919,16.25z/data=!3m1!5s0x54950a0fb0c8e609:0x7b05ed8af8d91bd3!4m5!3m4!1s0x54950bb96229e103:0x38da3b0606758047!8m2!3d45.5156179!4d-122.6756244)

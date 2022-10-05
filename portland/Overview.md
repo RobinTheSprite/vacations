@@ -9,3 +9,6 @@ Basically everything on this site is copied from this one:
 [Attractions](Attractions.md)
 
 [Food](Food.md)
+
+## Weather
+Just a friendly reminder to pack for rain, and pack boots if we're going to be hiking much
