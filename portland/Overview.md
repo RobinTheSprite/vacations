@@ -6,9 +6,11 @@ Resources for a trip to Portland to see The Longest Johns
 Basically everything on this site is copied from this one:
 [Portland Travel Website](https://www.travelportland.com/) 
 
-[Attractions](Attractions.md)
+Recommendations were also given by the local RDI office
 
-[Food](Food.md)
+### [Attractions](Attractions.md)
+
+### [Food](Food.md)
 
 ## Weather
 Just a friendly reminder to pack for rain, and pack boots if we're going to be hiking much
