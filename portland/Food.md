@@ -37,6 +37,9 @@
 	- $10-20
 	- Oldest restaurant in the city
 	- Also does dinner
+- Tin Shed Garden Cafe [(map)](https://www.google.com/maps/place/Tin+Shed+Garden+Cafe/@45.5589677,-122.6530648,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a71f3ac8759b:0x1eb070bdecf8f04b!8m2!3d45.558964!4d-122.6508762) [(menu)](https://static1.squarespace.com/static/5e15f0db289a0e270b508949/t/6330e010e8aa166596df3048/1664147472210/MENU.SEPT.22+%281%29.pdf)
+	- $15-20
+	- Hearty Breakfast and lunch
 
 ### Expensive
 - Higgins [(map)](https://www.google.com/maps/place/Higgins/@45.5155757,-122.6841887,17z/data=!3m2!4b1!5s0x54950a1077aac881:0xbb39f57b427c8c61!4m5!3m4!1s0x54950a1a82ca49e9:0xf1d9d1cf3737e70d!8m2!3d45.515572!4d-122.682) [(menu)](https://higginsportland.com/dinner-menu/)
