@@ -13,4 +13,6 @@ Recommendations were also given by the local RDI office
 ### [Food](Food.md)
 
 ## Weather
-Just a friendly reminder to pack for rain, and pack boots if we're going to be hiking much
+Just a friendly reminder to pack for rain, and pack boots if we're going to be hiking much.
+
+Average temps are around 40-50 degrees in November.

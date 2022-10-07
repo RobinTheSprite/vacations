@@ -8,6 +8,11 @@
 - Downtown [(map)](https://www.google.com/maps/@45.517855,-122.6740529,2640m/data=!3m1!1e3) [(guide)](https://www.travelportland.com/neighborhoods/downtown/)
 - Pearl District [(map)](https://www.google.com/maps/place/Pearl+District,+Portland,+OR/@45.5304531,-122.6893647,15z/data=!3m1!4b1!4m5!3m4!1s0x549509fe42c62a61:0xbf294ba55f24a8a6!8m2!3d45.5300496!4d-122.684412) [(guide)](https://www.travelportland.com/neighborhoods/pearl-district/)
 
+## Events
+- Portland Book Festival
+	- Saturday Nov. 5
+	- Portland Art Museum
+
 ## Shopping
 
 - Powell's Books [(map)](https://www.google.com/maps/place/Powell's+City+of+Books/@45.5230669,-122.7020694,14z/data=!4m9!1m2!2m1!1sPowell's+Books!3m5!1s0x54950a03b7b42a07:0x60d8820872cc912f!8m2!3d45.5230654!4d-122.6812454!15sCg5Qb3dlbGwncyBCb29rcyIDiAEBWhAiDnBvd2VsbCdzIGJvb2tzkgEKYm9va19zdG9yZeABAA) [(website)](https://www.powells.com/locations/powells-city-of-books)
