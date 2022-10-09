@@ -6,9 +6,16 @@
 
 Bike rentals are plentiful in Belgium and The Netherlands, it's just a question of whether there are any companies willing to pick up and drop off bikes, and how far away from their headquarters they are willing to go to do that.
 
-Any way we do it, we will likely end up working with at least two bike rental companies, and asking for pickups. The hardest part will be the Calais-Bruges leg, I think, since Calais is a bit outside the main tourist circuit in the Benelux region. One possibility would be to rent in Calais and then switch in Bruges. Another possibility would be to see Calais, then travel to Brussels or Bruges by train, and make our rentals there.
+Any way we do it, we will likely end up working with at least two bike rental companies, and asking for pickups.
 
-I also wonder, **Could we hire someone to just drive our bikes back for us?**
+If we can get a rental shop to do pickup or dropoff for us, we should have a lot of options to choose from. We could even have a shop from somewhere in the middle of the tour route do a pickup *and* a dropoff, if they would be more willing to do two shorter trips rather than one long one.
+
+That's worth bearing in mind: **It's about 300 miles from Calais to Groningen.** We may not be able to find a shop at either endpoint willing to drive for four hours each way to pick up our bikes.
+
+There are two key questions that we need to ask rental shops:
+
+1. Do you rent trekking bikes?
+2. If so, do you do pick up or drop off?
 
 Information on bike hire in The Netherlands: [Holland Cycling Routes](https://www.hollandcyclingroutes.com/practical/cycle-hire-and-parking)
 
@@ -23,6 +30,15 @@ Information on bike hire in The Netherlands: [Holland Cycling Routes](https://ww
 **Bike Rental in Bruges:**
 - [Ben's BIke](https://www.visitbruges.be/en/b-bike)
 - [The Chain (De Ketting)](http://www.deketting.be/verhuur.htm)
+
+**Bike Rental in Brussels:**
+- [Pro Velo](https://www.google.com/maps/place/Pro+Velo+Bruxelles/@50.8631248,4.3208492,11.75z/data=!4m9!1m2!2m1!1sbike+rental!3m5!1s0x47c3c4856b86034f:0x6309354856db02a3!8m2!3d50.8371123!4d4.3672008!15sCgtiaWtlIHJlbnRhbFoNIgtiaWtlIHJlbnRhbJIBFmJpY3ljbGVfcmVudGFsX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkRNbEJFUjFOUkVBReABAA)
+- [Bike-Packer](https://bike-packer.be/en/)
+	- Looks promising
+- [Cyclant](https://www.cyclant.com/en/santos-trekking-bikes/)
+	- These guys look really slick too
+
+**Bike Rental in Utrecht:**
 
 ## Buying Secondhand Bikes
 
