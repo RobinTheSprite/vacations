@@ -39,6 +39,20 @@ Information on bike hire in The Netherlands: [Holland Cycling Routes](https://ww
 	- These guys look really slick too
 
 **Bike Rental in Utrecht:**
+- [Eurobike](https://eurobikeshop.nl/verhuur/)
+
+**Bike Rental in Amsterdam:**
+- [Rent a Bike](https://www.rentabike.nl/en/hybrid-bike)
+- [A-Bike](https://a-bike.nl/rent-a-bike-in-amsterdam/)
+- [Quality Bike Rent Amsterdam](https://www.qualitybikerentamsterdam.nl/bike-rental/)
+- [Discount Bike Rental](https://www.discountbikerental.nl/product/touring-bike/)
+	- Looks promising
+- [Bike City](https://bikecity.nl/bike-rental/hybrid-bike/)
+	- Also promising
+- [King Bikes](https://kingbikes.nl/bike-rental/)
+
+**Bike Rental in Groningen:**
+- [Belga Fietsen](https://www.belgafietsen.nl/)
 
 ## Buying Secondhand Bikes
 
