@@ -21,6 +21,12 @@ This tour, as stated, will begin in Calais, pass through Belgium and the Netherl
 
 To accelerate our journey, train travel will be used to skip any areas we have no interest in. Most likely, we will want to skip over Germany unless anyone very much wants to visit Bremen or Hamburg.
 
+#### Google Maps Routes
+
+[Calais to Groningen](https://www.google.com/maps/dir/Calais/Bruges/Brussels/Antwerp/Middelburg,+Netherlands/Rotterdam/The+Hague/Haarlem,+Netherlands/Amsterdam/Groningen/@51.8666083,3.9027405,8z/data=!4m63!4m62!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.858686!2d50.95129!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2247552!2d51.2091807!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!2m2!1d4.4051485!2d51.2213404!1m5!1m1!1s0x47c48e44065d5267:0x9d5f315bb0ead1b4!2m2!1d3.610998!2d51.4987962!1m5!1m1!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!2m2!1d4.3006999!2d52.0704978!1m5!1m1!1s0x47c5ef6c60e1e9fb:0x8ae15680b8a17e39!2m2!1d4.6462194!2d52.3873878!1m5!1m1!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!2m2!1d4.9041389!2d52.3675734!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!3e1!4e1)
+
+[Ribe to Copenhagen](https://www.google.com/maps/dir/Ribe,+6760,+Denmark/Jelling,+7300,+Denmark/Middelfart,+Denmark/Kerteminde,+5300,+Denmark/Ringsted,+Denmark/Roskilde,+Denmark/Copenhagen/@55.6961541,9.7646135,8z/data=!4m45!4m44!1m5!1m1!1s0x464b37754ca598e1:0xab93f5741872121f!2m2!1d8.774665!2d55.326936!1m5!1m1!1s0x464b7ec893e37ca7:0xd2b4d66aea403807!2m2!1d9.4168679!2d55.753119!1m5!1m1!1s0x464c965822cb5a69:0x487991c3f7f3ec93!2m2!1d9.747172!2d55.497204!1m5!1m1!1s0x464d19e6a2195cab:0x6fc5f8607ec3b20e!2m2!1d10.654979!2d55.455882!1m5!1m1!1s0x4652920273830c2b:0xf7f3d35336cd393c!2m2!1d11.791372!2d55.442952!1m5!1m1!1s0x46525fc995012f29:0xa00afcc1d507710!2m2!1d12.087845!2d55.64191!1m5!1m1!1s0x4652533c5c803d23:0x4dd7edde69467b8!2m2!1d12.5683372!2d55.6760968!3e0!4e1)
+
 ### Why these countries?
 
 #### Cycling Heaven
@@ -32,35 +38,8 @@ I can recall briefly passing through Schiphol Airport on our way to somewhere el
 #### It Alliterates
 It cannot be denied that "Calais to Copenhagen" has a ring to it, no? It is the name of a truly epic adventure, one which we will rank high on our list of adventures. I take this as a sign of destiny.
 
-### Total Distance: ~970 miles
-This number includes miles traveled by train.
+### Time to Complete: ~4 weeks
 
-### Proposed Cities
+### Total Distance Traveled: ~970 miles
+
 See this page for a more detailed schedule: [Schedule](Schedule.md)
-
-- **France**
-	- Calais
-- **Belgium**
-	- Bruges
-	- Brussels
-- **The Netherlands**
-	- Rotterdam
-	- Delft
-	- The Hague
-	- Amsterdam
-	- Haarlem
-	- Groningen
-- **Denmark**
-	- Ribe
-	- Billund
-	- Jelling
-	- Odense
-	- Kerteminde
-	- Roskilde
-	- Copenhagen
-
-#### Google Maps Routes
-
-[Calais to Groningen](https://www.google.com/maps/dir/Calais/Bruges/Ghent/Brussels/Antwerp/Rotterdam/The+Hague/Utrecht/Amsterdam/Groningen/@53.4419201,4.4817618,6z/data=!4m63!4m62!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.858686!2d50.95129!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2247552!2d51.2091807!1m5!1m1!1s0x47c370e1339443ad:0x40099ab2f4d5140!2m2!1d3.7303351!2d51.0500182!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!2m2!1d4.4051485!2d51.2213404!1m5!1m1!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!2m2!1d4.3006999!2d52.0704978!1m5!1m1!1s0x47c66f4339d32d37:0xd6c8fc4c19af4ae9!2m2!1d5.1214201!2d52.0907374!1m5!1m1!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!2m2!1d4.9041389!2d52.3675734!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!3e1!4e1)
-
-[Groningen to Copenhagen](https://www.google.com/maps/dir/Groningen/Hamburg/Kolding/Copenhagen/@54.5199416,8.884797,6.75z/data=!4m27!4m26!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!1m5!1m1!1s0x47b161837e1813b9:0x4263df27bd63aa0!2m2!1d9.9936819!2d53.5510846!1m5!1m1!1s0x464ca02a01dd95a9:0xea8de3fa6eefccfd!2m2!1d9.4730519!2d55.495973!1m5!1m1!1s0x4652533c5c803d23:0x4dd7edde69467b8!2m2!1d12.5683372!2d55.6760968!3e1!4e1)
