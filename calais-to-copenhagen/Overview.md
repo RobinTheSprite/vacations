@@ -1,4 +1,5 @@
 # Calais to Copenhagen
+![windmills](windmills.jpg)
 ## A Bike Tour through Five Countries*
 \* Including those seen only by train
 

@@ -2,6 +2,8 @@
 
 # Transportation
 
+![dutch junction with bike path](junction.jpg)
+
 ## Bike Rental
 
 Bike rentals are plentiful in Belgium and The Netherlands, it's just a question of whether there are any companies willing to pick up and drop off bikes, and how far away from their headquarters they are willing to go to do that.
