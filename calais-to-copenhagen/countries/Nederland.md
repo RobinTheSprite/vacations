@@ -71,6 +71,7 @@
 	- Rijsttafel looks like a riot [(Wikipedia)](https://en.wikipedia.org/wiki/Rijsttafel)
 - Vondel Park
 - [Places to Drink in Amsterdam](https://www.iamsterdam.com/en/see-and-do/eating-and-drinking/wonky-pubs-and-historic-drinking-holes)
+- Fishing lol [(website)](https://fishingguideamsterdam.com/)
 
 ### Aalsmeer [(map)](https://www.google.com/maps/place/Aalsmeer,+Netherlands/@52.2583455,4.7538725,13z/data=!4m5!3m4!1s0x47c5de00d69f34af:0x400de5a8d1e7450!8m2!3d52.2621639!4d4.7619222)
 - Flower Auction [(map)](https://www.google.com/maps/place/Aalsmeer+Flower+Auction/@52.2586094,4.7807845,16z/data=!4m5!3m4!1s0x47c5de25f43ac82d:0x7e6ba34cf4c92c79!8m2!3d52.2582876!4d4.7825869)
