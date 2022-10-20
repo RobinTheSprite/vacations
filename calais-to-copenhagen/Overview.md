@@ -20,9 +20,11 @@ So I thought, why stop there?
 
 While Calais is the spiritual starting point for this adventure, it will likely begin a few days earlier in Paris. After Paris and Calais, we will pass through Belgium and the Netherlands, make a quick cut through Northern Germany, and end by going through Denmark to Copenhagen. 
 
-To accelerate our journey, train travel will be used to skip any areas we have no interest in. Most likely, we will want to skip over Germany unless anyone very much wants to visit Bremen or Hamburg.
+Since there are varying levels of interest in biking, there will be a bike travel and a train travel group. We will arrange meetups in the most important destinations, but for the most part the two groups will travel at their own paces.  We will all take the train from The Netherlands to Denmark.
 
-#### Google Maps Routes
+Since everyone has a different amount of free time as well, we will also try to arrange arrival and departure destinations as needed to give everyone a shot at coming on the trip with us.
+
+#### The Route on Google Maps
 
 [Calais to Groningen](https://www.google.com/maps/dir/Calais/Bruges/Brussels/Antwerp/Middelburg,+Netherlands/Rotterdam/The+Hague/Haarlem,+Netherlands/Amsterdam/Groningen/@51.8666083,3.9027405,8z/data=!4m63!4m62!1m5!1m1!1s0x47dc3f75d7f1e363:0xacbed9e08cd279f4!2m2!1d1.858686!2d50.95129!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2247552!2d51.2091807!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c3f68ebfc3887d:0x3eaf448482a88ab8!2m2!1d4.4051485!2d51.2213404!1m5!1m1!1s0x47c48e44065d5267:0x9d5f315bb0ead1b4!2m2!1d3.610998!2d51.4987962!1m5!1m1!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c5b72f4298bd71:0x400de5a8d1e6c10!2m2!1d4.3006999!2d52.0704978!1m5!1m1!1s0x47c5ef6c60e1e9fb:0x8ae15680b8a17e39!2m2!1d4.6462194!2d52.3873878!1m5!1m1!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!2m2!1d4.9041389!2d52.3675734!1m5!1m1!1s0x47c83286b462cca7:0xcb4b5086f9a6c8dc!2m2!1d6.5665017!2d53.2193835!3e1!4e1)
 
