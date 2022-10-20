@@ -18,7 +18,7 @@ So I thought, why stop there?
 
 ### Tour Route
 
-This tour, as stated, will begin in Calais, pass through Belgium and the Netherlands, make a quick cut through Northern Germany, and end by going through Denmark to Copenhagen. 
+While Calais is the spiritual starting point for this adventure, it will likely begin a few days earlier in Paris. After Paris and Calais, we will pass through Belgium and the Netherlands, make a quick cut through Northern Germany, and end by going through Denmark to Copenhagen. 
 
 To accelerate our journey, train travel will be used to skip any areas we have no interest in. Most likely, we will want to skip over Germany unless anyone very much wants to visit Bremen or Hamburg.
 
