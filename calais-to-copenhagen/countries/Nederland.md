@@ -12,6 +12,8 @@
 	- [Cube house hostel](https://www.stayokay.com/en/hostel/rotterdam)
 - Market Hall [(website)](https://www.markthal.nl/en/)
 - The Kinderdijk is southeast of the city
+- Bridges in the city inspired by the ones on Euro bills
+	- Life imitates art!
 
 ### Delft [(map)](https://www.google.com/maps/place/Delft,+Netherlands/@51.9995826,4.3286784,13z/data=!3m1!4b1!4m5!3m4!1s0x47c5b5c3515f58fd:0x89b05ca3c54bd43d!8m2!3d52.0115667!4d4.3570662)
 - Thursday is market day
