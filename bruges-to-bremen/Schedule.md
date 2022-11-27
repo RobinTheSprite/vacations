@@ -1,4 +1,4 @@
-### [Calais to Copenhagen](./Overview.md)
+### [Calais to Copenhagen](bruges-to-bremen/Overview.md)
 
 # Full Trip Schedule
 This is a day-by-day timeline of the trip for the biking group. Each item on the list has a starting and ending city, indicating where we will be traveling to each day. This will fill out more and more as trip planning continues.
@@ -9,14 +9,14 @@ Interestingly, [this guy](https://www.bikemap.net/en/r/9617138/#5.46/52.423/6.95
 
 Incredible [route planner here](https://www.hollandcyclingroutes.com/online-cycle-route-planner)
 
-1. Arrival: Paris
-2. Layover: Paris
-3. Paris - Calais
-4. Calais - Dunkirk
-5. Dunkirk - Nieuwpoort
-6. Nieuwpoort - Bruges
-7. Bruges - Brussels
-8. Brussels - Antwerp
+1. Arrival: Copenhagen
+2. Layover: Copenhagen
+3. Layover: Copenhagen
+4. Copenhagen - Paris
+5. Layover: Paris
+6. Layover: Paris
+7. Layover: Paris
+8. Paris - Bruges
 9. Antwerp - Roosendaal
 10. Roosendaal - Rotterdam
 11. Rotterdam - Haag/Delft

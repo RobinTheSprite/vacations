@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calais-to-copenhagen/countries/Nederland.md",
+                "file": "bruges-to-bremen/Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calais-to-copenhagen/countries/Nederland.md",
+                "file": "bruges-to-bremen/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calais-to-copenhagen/countries/Nederland.md",
+                "file": "bruges-to-bremen/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calais-to-copenhagen/countries/Nederland.md"
+                "file": "bruges-to-bremen/Schedule.md"
               }
             }
           }
@@ -136,20 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "50b7f686200a448a",
   "lastOpenFiles": [
-    "calais-to-copenhagen/Schedule.md",
-    "calais-to-copenhagen/Overview.md",
+    "bruges-to-bremen/Overview.md",
+    "bruges-to-bremen/countries/Nederland.md",
+    "bruges-to-bremen/Schedule.md",
     "README.md",
-    "calais-to-copenhagen/countries/Nederland.md",
-    "calais-to-copenhagen/countries/Denmark.md",
-    "calais-to-copenhagen/countries/Belgium.md",
-    "calais-to-copenhagen/countries/France.md",
-    "calais-to-copenhagen/Transportation.md",
-    "calais-to-copenhagen/junction.jpg",
+    "bruges-to-bremen/countries/Denmark.md",
+    "bruges-to-bremen/countries/Belgium.md",
+    "bruges-to-bremen/countries/France.md",
+    "bruges-to-bremen/Transportation.md",
+    "bruges-to-bremen/junction.jpg",
     "portland/Overview.md"
   ]
 }
