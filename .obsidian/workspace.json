@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bruges-to-bremen/Schedule.md",
+                "file": "bruges-to-bremen/countries/Denmark.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bruges-to-bremen/Schedule.md",
+                "file": "bruges-to-bremen/countries/Denmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bruges-to-bremen/Schedule.md",
+                "file": "bruges-to-bremen/countries/Denmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bruges-to-bremen/Schedule.md"
+                "file": "bruges-to-bremen/countries/Denmark.md"
               }
             }
           }
@@ -138,14 +138,14 @@
   },
   "active": "50b7f686200a448a",
   "lastOpenFiles": [
+    "bruges-to-bremen/Transportation.md",
+    "bruges-to-bremen/Schedule.md",
     "bruges-to-bremen/Overview.md",
     "bruges-to-bremen/countries/Nederland.md",
-    "bruges-to-bremen/Schedule.md",
     "README.md",
     "bruges-to-bremen/countries/Denmark.md",
     "bruges-to-bremen/countries/Belgium.md",
     "bruges-to-bremen/countries/France.md",
-    "bruges-to-bremen/Transportation.md",
     "bruges-to-bremen/junction.jpg",
     "portland/Overview.md"
   ]

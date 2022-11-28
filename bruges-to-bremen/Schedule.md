@@ -17,24 +17,7 @@ Incredible [route planner here](https://www.hollandcyclingroutes.com/online-cycl
 6. Layover: Paris
 7. Layover: Paris
 8. Paris - Bruges
-9. Antwerp - Roosendaal
-10. Roosendaal - Rotterdam
-11. Rotterdam - Haag/Delft
-12. Haag - Amsterdam
-13. Layover: Amsterdam
-14. Amsterdam - Nijkerk
-15. Nijkerk - Zwolle
-16. Zwolle - Hoogeven
-17. Hoogeven - Assen
-18. Assen - Groningen
-19. Groningen - Hamburg
-20. Layover: Hamburg?
-21. Hamburg - Billund
-22. Billund - Middelfart
-23. Middelfart - Odense
-24. Odense - Kerteminde
-25. Kerteminde - Ringsted
-26. Ringsted - Roskilde
-27. Roskilde - Copenhagen
-28. Layover: Copenhagen
-29. Departure: Copenhagen
+9. Bruges - Middelburg
+10. Middelburg - TBD
+11. TBD - Ouddorp
+12. Ouddorp - Rotterdam

@@ -62,6 +62,9 @@ It's got a moat! [(website)](https://egeskov.dk/en/)
 - Christianshavn
 	- Church has pretty steeple [(Wikipedia)](https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
 - Look at the size of this bridge! [(map)](https://www.google.com/maps/place/%C3%98resund+Bridge/@55.6856046,12.4907439,11z/data=!4m5!3m4!1s0x4653a7023a051afb:0xbc0e93c11c372873!8m2!3d55.5706287!4d12.8486371)
+- National Museum of Denmark [(website)](https://en.natmus.dk/museums-and-palaces/the-national-museum-of-denmark/)
+	- Viking artifacts
+	- Famous Celtic artifacts [(Wikipedia)](https://en.wikipedia.org/wiki/Gundestrup_cauldron)
 
 #### Camp Adventure [(map)](https://www.google.com/maps/place/Camp+Adventure/@55.3839503,11.9249477,10.12z/data=!4m5!3m4!1s0x4652c105c4ed0159:0xb84c4616a2fd8955!8m2!3d55.2599224!4d11.9803977)
 - Nature park 1hr south of Copenhagen [(website)](https://www.campadventure.dk/en/)

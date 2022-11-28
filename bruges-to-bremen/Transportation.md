@@ -56,6 +56,11 @@ Information on bike hire in The Netherlands: [Holland Cycling Routes](https://ww
 **Bike Rental in Groningen:**
 - [Belga Fietsen](https://www.belgafietsen.nl/)
 
+**Bike Rental in Copenhagen:**
+- [Fri BikeShop](https://www.fribikeshop.dk/butikker/koebenhavn/noerrebro)
+- [Copenhagen Cycles](https://copenhagenbicycles.dk/)
+- [Bike Rental Copenhagen](https://baisikeli.dk/bike-rental/)
+
 ## Buying Secondhand Bikes
 
 This is a legitimate possibility. In countries like BE and NL, the market has got to be overflowing with cheap secondhand bikes. We could just buy some bikes, outfit them with racks, and sell them or scrap them at our destination.
