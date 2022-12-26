@@ -1,4 +1,4 @@
-### [Beers, Bikes, and Boulangerie](/vacations/beers-bikes-boulangerie/Overview.md)
+### [Beers, Bikes, and Boulangerie](Overview.md)
 
 # Full Trip Schedule
 This is a day-by-day timeline of the trip for the biking group. Each item on the list has a starting and ending city, indicating where we will be traveling to each day. This will fill out more and more as trip planning continues.
@@ -24,4 +24,5 @@ Incredible [route planner here](https://www.hollandcyclingroutes.com/online-cycl
 	- Accommodation: [B&B De Schuur](https://www.google.com/maps/place/B%26B+De+Schuur/@51.6480168,3.9141933,17z/data=!3m1!4b1!4m8!3m7!1s0x47c4f5636ff67715:0xf3e3fde84713e69a!5m2!4m1!1i2!8m2!3d51.6479732!4d3.9163711)
 11. **May 21st**: Zierikzee - Willemstad
 		- Accommodation: [Het Wapen](https://www.google.com/maps/place/Het+Wapen+%7C+Willemstad/@51.6943437,4.4398815,209m/data=!3m1!1e3!4m8!3m7!1s0x47c43957f5714003:0xc91d83bf21221cb1!5m2!4m1!1i2!8m2!3d51.6945279!4d4.4398881!5m1!1e3)
-12. TBD
+12. **May 22nd**: Willemstad - Dordrecht
+		- Accommodation: [StayOkay Hostel Dordrecht](https://www.google.com/maps/place/Stayokay+Hostel+Dordrecht/@51.7993226,4.7594223,13.75z/data=!4m8!3m7!1s0x47c429c6096763af:0x1745506f814e76d4!5m2!4m1!1i2!8m2!3d51.8104041!4d4.751512)
