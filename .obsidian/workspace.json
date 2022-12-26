@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheese-and-wine/countries/Nederland.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheese-and-wine/countries/Nederland.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheese-and-wine/countries/Nederland.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheese-and-wine/countries/Nederland.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50b7f686200a448a",
+  "active": "93e86bb96fa7f833",
   "lastOpenFiles": [
-    "cheese-and-wine/countries/Nederland.md",
-    "cheese-and-wine/Overview.md",
-    "cheese-and-wine/Schedule.md",
-    "cheese-and-wine/windmills.jpg",
-    "cheese-and-wine/Bike Rental.md",
-    "cheese-and-wine/countries/Denmark.md",
+    "beers-bikes-boulangerie/countries/Nederland.md",
+    "beers-bikes-boulangerie/Overview.md",
+    "beers-bikes-boulangerie/Schedule.md",
+    "beers-bikes-boulangerie/windmills.jpg",
+    "beers-bikes-boulangerie/Bike Rental.md",
+    "beers-bikes-boulangerie/countries/Denmark.md",
     "README.md",
-    "cheese-and-wine/countries/Belgium.md",
-    "cheese-and-wine/countries/France.md",
-    "cheese-and-wine/junction.jpg"
+    "beers-bikes-boulangerie/countries/Belgium.md",
+    "beers-bikes-boulangerie/countries/France.md",
+    "beers-bikes-boulangerie/junction.jpg"
   ]
 }
