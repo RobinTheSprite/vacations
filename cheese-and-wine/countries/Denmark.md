@@ -1,4 +1,4 @@
-### [Calais to Copenhagen](bruges-to-bremen/Overview.md)
+### [Calais to Copenhagen](cheese-and-wine/Overview.md)
 
 # Denmark
 

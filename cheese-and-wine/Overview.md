@@ -1,12 +1,12 @@
-# Bruges to Bremen
+# The Cheese and Wine Tour
 ![windmills](windmills.jpg)
-## A Tour through Four Countries
+### A Tour through Four Countries
 
-### Country Resources
+## Country Resources
 [France](France.md) - [Belgium](Belgium.md) - [Nederland](Nederland.md) - [Denmark](Denmark.md)
 
-### Logistics
-[Schedule](Schedule.md) - [Transportation](Transportation.md)
+## Logistics
+[Schedule](Schedule.md) - [Bike Rental](Bike%20Rental.md)
 
 ### Origin of the trip
 
@@ -19,11 +19,7 @@ My original plan involved a sprawling tour starting in Calais and ending in Cope
 
 ### High Level Summary
 
-Since both Copenhagen and Paris were both polled as popular destinations for our family, we will begin by spending a few days in both, flying from one to the other. After that, we will travel to Bruges, where the bike touring group will split off of the main group and begin their ride. We will travel North toward Amsterdam, each on our respective mode of transport, visiting cities along the way.
-
-We will arrange meetups in the most important destinations, but for the most part the two groups will travel at their own paces. Hopefully this will create some variety in the experience and make for some fun storytelling whenever we meet up.
-
-Since everyone has a different amount of free time as well, we will also try to arrange arrival and departure destinations as needed to give everyone a shot at coming on the trip with us.
+We will begin by spending a few days in Paris and Copenhagen, flying from one to the other. After that, we will travel to Bruges, where we will pick up our bikes and begin our ride. We will travel North toward Amsterdam, visiting cities along the way. After Amsterdam, we will split into smaller groups and go our separate ways, according to interest.
 
 #### The Route on Google Maps
 
@@ -40,9 +36,6 @@ The Netherlands and Denmark are widely regarded as having world-class cycling in
 
 #### New Territory
 I can recall briefly passing through Schiphol Airport on our way to somewhere else before, but none of us have done a proper tour of Belgium, The Netherlands, or Denmark. It would be a new experience for all of us.
-
-#### It Alliterates
-Self explanatory. Good trips should have good names.
 
 ### Time to Complete: ~3 weeks
 
