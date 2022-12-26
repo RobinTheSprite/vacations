@@ -1,4 +1,4 @@
-### [Calais to Copenhagen](beers-bikes-boulangerie/Overview.md)
+### [Beers, Bikes, and Boulangerie](beers-bikes-boulangerie/Overview.md)
 
 # Belgium
 
@@ -17,21 +17,7 @@
 - Church of Our Lady [(website)](https://www.museabrugge.be/en)
 - Beer!
 
-## Brussels [(map)](https://www.google.com/maps/place/Brussels,+Belgium/@50.8552114,4.3053777,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8476271!4d4.3571949)
-- NATO Headquarters
-- EU Headquarters
-- Capital of BE
-- Town Square
-	- Guild houses
-- Rue de Bouchers
-	- Good eating
-	- Esp. Seafood
-- Manneken Pis
-- Ancient and Modern Art Museums
-	- Hieronymus Bosch
-	- Breughel
-	- Surrealist art
-- Waffles!
+## Ghent
 
 ## Additional Resources
 [Rick Steves: Bruges and Brussels](https://www.youtube.com/watch?v=gZuI-dR9pfU)
