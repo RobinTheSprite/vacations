@@ -1,4 +1,4 @@
-### [Beers, Bikes, and Boulangerie](beers-bikes-boulangerie/Overview.md)
+### [Beers, Bikes, and Boulangerie](/vacations/beers-bikes-boulangerie/Overview.md)
 
 # The Netherlands
 ## South Holland
