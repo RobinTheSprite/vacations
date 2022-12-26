@@ -6,7 +6,7 @@
 [France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](countries/Nederland.md) - [Denmark](countries/Denmark.md)
 
 ## Logistics
-[Schedule](Schedule.md) - [Bike Rental](Bike%20Rental.md)
+[Schedule](Schedule.md) - [Bikes](Bikes.md)
 
 ### Origin of the trip
 
