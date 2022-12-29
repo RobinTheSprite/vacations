@@ -31,6 +31,12 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 10. **May 20th**: Vlissingen - Zierikzee
 	- Accommodation: [B&B De Schuur](https://www.google.com/maps/place/B%26B+De+Schuur/@51.6480168,3.9141933,17z/data=!3m1!4b1!4m8!3m7!1s0x47c4f5636ff67715:0xf3e3fde84713e69a!5m2!4m1!1i2!8m2!3d51.6479732!4d3.9163711)
 11. **May 21st**: Zierikzee - Willemstad
-		- Accommodation: [Het Wapen](https://www.google.com/maps/place/Het+Wapen+%7C+Willemstad/@51.6943437,4.4398815,209m/data=!3m1!1e3!4m8!3m7!1s0x47c43957f5714003:0xc91d83bf21221cb1!5m2!4m1!1i2!8m2!3d51.6945279!4d4.4398881!5m1!1e3)
+	- Accommodation: [Het Wapen](https://www.google.com/maps/place/Het+Wapen+%7C+Willemstad/@51.6943437,4.4398815,209m/data=!3m1!1e3!4m8!3m7!1s0x47c43957f5714003:0xc91d83bf21221cb1!5m2!4m1!1i2!8m2!3d51.6945279!4d4.4398881!5m1!1e3)
 12. **May 22nd**: Willemstad - Dordrecht
-		- Accommodation: [StayOkay Hostel Dordrecht](https://www.google.com/maps/place/Stayokay+Hostel+Dordrecht/@51.7993226,4.7594223,13.75z/data=!4m8!3m7!1s0x47c429c6096763af:0x1745506f814e76d4!5m2!4m1!1i2!8m2!3d51.8104041!4d4.751512)
+	- Accommodation: [StayOkay Hostel Dordrecht](https://www.google.com/maps/place/Stayokay+Hostel+Dordrecht/@51.7993226,4.7594223,13.75z/data=!4m8!3m7!1s0x47c429c6096763af:0x1745506f814e76d4!5m2!4m1!1i2!8m2!3d51.8104041!4d4.751512)
+13. **May 23rd**: Dordrecht - Gouda
+	- Accommodation: [Canalhouse Aan de Gouwe](https://www.google.com/maps/place/Canalhouse+Aan+de+Gouwe/@52.0090055,4.7121718,17z/data=!4m8!3m7!1s0x47c5d4031aebffff:0xf6bba778284bc140!5m2!4m1!1i2!8m2!3d52.0091084!4d4.7115929)
+14. **May 24th:** Gouda - Leiden
+	- Accommodation: [Best Western](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.1619723,4.4878669,17z/data=!3m1!4b1!4m8!3m7!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556)
+15.  **May 25th:** Leiden - Amsterdam
+16. Layover: Amsterdam
