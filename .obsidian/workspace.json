@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "25226d5caddc6f09",
+        "id": "0fe201781e902c44",
         "type": "tabs",
         "children": [
           {
-            "id": "54ee03d736334a29",
+            "id": "64993ce906262a20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "beers-bikes-boulangerie/countries/France.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "beers-bikes-boulangerie/countries/France.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "beers-bikes-boulangerie/countries/France.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "beers-bikes-boulangerie/countries/France.md"
+              }
             }
           }
         ]
@@ -138,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93e86bb96fa7f833",
+  "active": "64993ce906262a20",
   "lastOpenFiles": [
+    "beers-bikes-boulangerie/countries/Nederland.md",
     "beers-bikes-boulangerie/Schedule.md",
     "beers-bikes-boulangerie/Overview.md",
-    "beers-bikes-boulangerie/countries/Nederland.md",
     "beers-bikes-boulangerie/countries/France.md",
     "beers-bikes-boulangerie/countries/Belgium.md",
     "beers-bikes-boulangerie/countries/Denmark.md",
