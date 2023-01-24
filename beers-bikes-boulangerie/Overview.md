@@ -3,7 +3,7 @@
 ### A Tour through Four Countries
 
 ## Country Resources
-[France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](Nederland.md) - [Denmark](countries/Denmark.md)
+[France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](countries/nederland/Nederland.md) - [Denmark](countries/Denmark.md)
 
 ## Logistics
 [Schedule](Schedule.md) - [Bikes](Bikes.md)
