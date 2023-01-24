@@ -38,6 +38,8 @@
 	- Offers group rates and tour guides
 - Montparnasse Tower [(map)](https://www.google.com/maps/place/Montparnasse+Tower/@48.8360504,2.341061,7035m/data=!3m1!1e3!4m5!3m4!1s0x47e671ccae002451:0xfc04ff9c1b1c593c!8m2!3d48.8421379!4d2.3219514)
 	- Tall office building with an observation deck
+
+### Obscure Landmarks
 - Père Lachaise Cemetery [(map)](https://www.google.com/maps/place/P%C3%A8re+Lachaise+Cemetery/@48.8535629,2.3967338,14.09z/data=!4m5!3m4!1s0x47e66d8b5c69a785:0xa1cf6127530b6419!8m2!3d48.861472!4d2.3934725)
 	- Resting place of Jim Morrison and Oscar Wilde
 - Shakespeare and Company [(map)](https://www.google.com/maps/place/Shakespeare+and+Company/@48.8526642,2.3467285,17.91z/data=!4m5!3m4!1s0x47e671e11e57b6ff:0x1338ace04de752b3!8m2!3d48.8525874!4d2.3471619)
@@ -46,4 +48,9 @@
 	- Also a restaurant
 - The other Statue of Liberty [(map)](https://www.google.com/maps/place/Statue+of+Liberty,+Pont+de+Grenelle,+75015+Paris,+France/@48.8496464,2.2818606,16.39z/data=!4m5!3m4!1s0x47e67006ff4e55cd:0xda71f1e9d47af8ec!8m2!3d48.850034!4d2.2797065)
 - One of the last remaining Standard Meters [(map)](https://www.google.com/maps/place/M%C3%A8tre+%C3%A9talon/@48.848949,2.3365847,18.82z/data=!4m5!3m4!1s0x47e6713a27ded0bd:0xf9cd332ec7e6fe1!8m2!3d48.8493073!4d2.3355182)
+- Argonaute Submarine [(map)](https://www.google.com/maps/place/Argonaute+Submarine+-+Sous-marin/@48.8945915,2.3873955,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dcb216bf34b:0x515af8bd7eeb42b3!8m2!3d48.894588!4d2.3895842)
+	- 60s era French submarine
+	- Daily tours
 ## Additional Resources
+
+[Atlas Obscura: Paris](https://www.atlasobscura.com/things-to-do/paris-france/places?page=9)
