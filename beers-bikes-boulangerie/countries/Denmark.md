@@ -2,6 +2,19 @@
 
 # Denmark
 
+## Country Notes
+
+- **Set a PIN on your credit card**
+	- Many card readers ask for one
+- Food to try
+	- Danish hot dogs (really)
+	- The pastries
+	- Smørrebrød
+	- Akvavit
+- Plug is the European two-prong plug
+- Everyone speaks English pretty much
+	- I was going to write some phrases here, but the pronunciation of Danish is a nightmare, it turns out. I would rather speak Czech.
+
 ## Island of Sjælland (Zealand)
 #### Copenhagen [(map)](https://www.google.com/maps/place/Copenhagen,+Denmark/@55.6713442,12.5237846,12z/data=!3m1!4b1!4m5!3m4!1s0x4652533c5c803d23:0x4dd7edde69467b8!8m2!3d55.6760841!4d12.5683594)
 - Christiania
