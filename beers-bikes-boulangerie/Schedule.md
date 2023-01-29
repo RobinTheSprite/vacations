@@ -23,7 +23,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 	- Change of Accommodation: [Gare de Lyon Courtyard](https://www.google.com/maps/place/Courtyard+by+Marriott+Paris+Gare+de+Lyon/@48.8490825,2.366516,15.5z/data=!4m8!3m7!1s0x47e6721ca8d17de9:0x7a5a6955cce83c07!5m2!4m1!1i2!8m2!3d48.8451267!4d2.3712969)
 6. Layover: Paris
 7. **May 17th**: Paris - Bruges (Ghent?)
-	- Accommodation: [Ibis Budget Brugge Centrum](https://www.google.com/maps/place/ibis+budget+Brugge+Centrum+Station/@51.1979947,3.2306181,15.29z/data=!4m8!3m7!1s0x47c350c5264650fd:0x2d73d9fe552e51db!5m2!4m1!1i2!8m2!3d51.1965176!4d3.2189582)
+	- Accommodation: [Hotel Marcel](https://www.google.com/maps/place/Hotel+Marcel/@51.2099813,3.2214515,17z/data=!3m1!4b1!4m9!3m8!1s0x47c350d0408f16fd:0xce7ebcc4231cf729!5m2!4m1!1i2!8m2!3d51.209978!4d3.2236402!16s%2Fg%2F1pp2t_h21)
 8. Layover: Bruges
 9. **May 19th**: Bruges - Vlissingen
 	- We get our bikes in the morning
@@ -37,6 +37,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 13. **May 23rd**: Dordrecht - Gouda
 	- Accommodation: [Canalhouse Aan de Gouwe](https://www.google.com/maps/place/Canalhouse+Aan+de+Gouwe/@52.0090055,4.7121718,17z/data=!4m8!3m7!1s0x47c5d4031aebffff:0xf6bba778284bc140!5m2!4m1!1i2!8m2!3d52.0091084!4d4.7115929)
 14. **May 24th:** Gouda - Leiden
-	- Accommodation: [Best Western](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.1619723,4.4878669,17z/data=!3m1!4b1!4m8!3m7!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556)
-15.  **May 25th:** Leiden - Amsterdam
-16. Layover: Amsterdam
+	- Accommodation: [Lange Mare City Hotel](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.161855,4.4910851,17.3z/data=!4m18!1m8!3m7!1s0x47c5c692d3815259:0x16c2a9b426d73e7a!2sLange+Mare,+Leiden,+Netherlands!3b1!8m2!3d52.161253!4d4.4904366!16s%2Fg%2F121vxpr_!3m8!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556!16s%2Fg%2F11xfslwmf)
+		- Still labeled as Best Western on the map, but it's the same hotel
+1.  **May 25th:** Leiden - Amsterdam
+2. Layover: Amsterdam
