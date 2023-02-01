@@ -78,7 +78,8 @@ Right-of-way priority:
 	- Vermeer
 - Van Gough museum [(website)](https://www.vangoghmuseum.nl/en)
 - Coffeshops sell marijuana
-- Avoid the Red Light District [(map)](https://www.google.com/maps/place/Red+Light+District+Amsterdam+Centrum/@52.3740227,4.8977618,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609250d004419:0x195054befb3d51a2!8m2!3d52.3740194!4d4.8999505)
+- Red Light District [(map)](https://www.google.com/maps/place/Red+Light+District+Amsterdam+Centrum/@52.3740227,4.8977618,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609250d004419:0x195054befb3d51a2!8m2!3d52.3740194!4d4.8999505)
+	- Red curtains mean you're in the RLD. Do what you will with that information
 - Our Lord in the Attic [(website)](https://opsolder.nl/en/)
 	- Hidden Catholic church
 - Indonesian Food
