@@ -71,6 +71,16 @@ Right-of-way priority:
 	- Good walking district
 - Bike parking garages
 - Townhouses
+- Nieuwe Spiegelstraat [(map)](https://www.google.com/maps/place/Staetshuys+Antiquairs+B.V.+Meulendijks+%26+Schuil/@52.3633604,4.8881534,19z/data=!4m6!3m5!1s0x47c609ebc7a56f61:0x2977670ba792c911!8m2!3d52.3633596!4d4.8887067!16s%2Fg%2F1tcvymfq)
+	- Street of antique shops
+	- Medical instruments, astronomical tools, etc
+- De Poezenboot (The Cat Boat) [(map)](https://www.google.com/maps/place/De+Poezenboot/@52.3774895,4.8956511,16.58z/data=!4m6!3m5!1s0x47c609c889013aad:0x22fbd4af1537b2e6!8m2!3d52.3781657!4d4.8931329!16s%2Fg%2F1pznmhllr)
+	- Boatful of cats!
+	- Public welcome!!
+- Oudemanhuispoort [(map)](https://goo.gl/maps/ggT74Jo99PJ4crGd8)
+	- Market street
+- Zero Elevation (Normaal Amsterdams Peil) [(map)](https://www.google.com/maps/place/Dam+Square/@52.3731413,4.8930781,125m/data=!3m1!1e3!4m6!3m5!1s0x47c609d9faf2eaab:0x28528186b9782ff2!8m2!3d52.3730668!4d4.892648!16s%2Fg%2F12jc0yq_k)
+	- Bit of a nerdy one. This stone marks elevation 0 for all of Europe.
 - Anne Frank House [(website)](https://www.annefrank.org/en/)
 - Dutch Resistance Museum [(website)](https://www.verzetsmuseum.org/en/world-war-ii-in-the-netherlands)
 - Rijksmuseum [(website)](https://www.rijksmuseum.nl/en)
