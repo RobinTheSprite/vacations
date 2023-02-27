@@ -31,6 +31,9 @@
 - Sainte-Chapelle [(map)](https://www.google.com/maps/place/Sainte-Chapelle/@48.855375,2.3427722,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e1fd8767d47:0x33f441f9dc242768!8m2!3d48.855375!4d2.3449609!16zL20vMGp2ZzU)
 	- Same island as Notre Dame
 	- Real nice stained glass
+- Palais Garnier [(map)](https://www.google.com/maps/place/Palais+Garnier/@48.8681879,2.3477866,14.14z/data=!3m1!5s0x47e66e36d5b3a1a7:0x6e3ce34bd2995e0c!4m6!3m5!1s0x47e66e30d4668339:0xa9abf21c286d0767!8m2!3d48.8719697!4d2.3316014!16zL20vMGhyNnc)
+	- Opera House
+	- Inspired Phantom of the Opera
 - Musée des Arts et Métiers [(map)](https://www.google.com/maps/place/Mus%C3%A9e+des+Arts+et+M%C3%A9tiers/@48.8610816,2.3318488,15z/data=!3m1!5s0x47e66e100db405fd:0xbb706d2702a9b31c!4m5!3m4!1s0x0:0x772045ec563b1de2!8m2!3d48.8666392!4d2.3554383) [(website)](https://www.arts-et-metiers.net/musee/visitor-information)
 	- Science and industrial museum
 	- Has Foucault's Pendulum
