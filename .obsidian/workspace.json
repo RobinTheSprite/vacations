@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/Belgium.md",
+                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/Belgium.md",
+                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/Belgium.md",
+                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/Belgium.md"
+                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "39069926debbb47c",
   "lastOpenFiles": [
+    "beers-bikes-boulangerie/countries/Belgium.md",
     "beers-bikes-boulangerie/countries/Denmark.md",
     "beers-bikes-boulangerie/countries/France.md",
     "beers-bikes-boulangerie/countries/nederland/Nederland.md",
@@ -155,7 +156,6 @@
     "beers-bikes-boulangerie/countries/nederland/road-signs.md",
     "beers-bikes-boulangerie/Overview.md",
     "Dutch.md",
-    "beers-bikes-boulangerie/countries/Belgium.md",
     "beers-bikes-boulangerie/Bikes.md",
     "vacations/beers-bikes-boulangerie/Overview.md"
   ]

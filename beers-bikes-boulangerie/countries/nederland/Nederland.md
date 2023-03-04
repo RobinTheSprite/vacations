@@ -13,6 +13,9 @@ Right-of-way priority:
 4. Cars
 5. Pedestrians
 
+- In bars, get the server's attention through eye contact
+- Coffeshop means cannabis shop
+
 ## South Holland
 ### Rotterdam [(map)](https://www.google.com/maps/place/Rotterdam,+Netherlands/@51.9280712,4.4207887,12z/data=!3m1!4b1!4m5!3m4!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!8m2!3d51.9244198!4d4.4777226)
 - Industrial hub of NL
@@ -58,6 +61,14 @@ Right-of-way priority:
 
 ## North Holland
 ### Amsterdam [(map)](https://www.google.com/maps/place/Amsterdam,+Netherlands/@52.3547498,4.833921,12z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3675684!4d4.9041295)
+- Food
+	- Indonesian Food
+		- Rijsttafel looks like a riot [(Wikipedia)](https://en.wikipedia.org/wiki/Rijsttafel)
+	- Poffertje (poffer-tche)
+		- Dutch pancakes
+	- Bitterballen
+		- Meatball snacks
+- Breweries
 - Damrak
 	- Main tourist drag
 	- Connects to royal palace
@@ -87,16 +98,18 @@ Right-of-way priority:
 	- Rembrandt
 	- Vermeer
 - Van Gough museum [(website)](https://www.vangoghmuseum.nl/en)
-- Coffeshops sell marijuana
+- Kohler Mueller Museum [(map)]
 - Red Light District [(map)](https://www.google.com/maps/place/Red+Light+District+Amsterdam+Centrum/@52.3740227,4.8977618,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609250d004419:0x195054befb3d51a2!8m2!3d52.3740194!4d4.8999505)
 	- Red curtains mean you're in the RLD. Do what you will with that information
 - Our Lord in the Attic [(website)](https://opsolder.nl/en/)
 	- Hidden Catholic church
-- Indonesian Food
-	- Rijsttafel looks like a riot [(Wikipedia)](https://en.wikipedia.org/wiki/Rijsttafel)
 - Vondel Park
 - [Places to Drink in Amsterdam](https://www.iamsterdam.com/en/see-and-do/eating-and-drinking/wonky-pubs-and-historic-drinking-holes)
 - Fishing lol [(website)](https://fishingguideamsterdam.com/)
+- NEMO Science Museum [(map)](https://www.google.com/maps/place/NEMO+Science+Museum/@52.3710575,4.9289207,14.67z/data=!4m6!3m5!1s0x47c609a4fe55bb9b:0xc748bda26202cebc!8m2!3d52.3742111!4d4.9123385!16zL20vMGZxc3Z2) [(website)](https://www.nemosciencemuseum.nl/en/)
+	- Has a daily Rube Goldberg demonstration
+- Walhalla Brewery [(map)](https://www.google.com/maps/place/Walhalla+Brewery+%26+Taproom/@52.3854242,4.9183589,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609aa52fd8215:0x75aae3d07dc87d8e!8m2!3d52.3854209!4d4.9205476!16s%2Fg%2F11f0l4t1m3)
+- Albert Cuypmarkt [(map)](https://www.google.com/maps/place/Albert+Cuyp+Market/@52.3558756,4.895002,18.21z/data=!4m6!3m5!1s0x47c609f28b745671:0xd2d8aeb9aaa10b4b!8m2!3d52.3559673!4d4.8953871!16s%2Fm%2F0269ljs)
 
 ### Aalsmeer [(map)](https://www.google.com/maps/place/Aalsmeer,+Netherlands/@52.2583455,4.7538725,13z/data=!4m5!3m4!1s0x47c5de00d69f34af:0x400de5a8d1e7450!8m2!3d52.2621639!4d4.7619222)
 - Flower Auction [(map)](https://www.google.com/maps/place/Aalsmeer+Flower+Auction/@52.2586094,4.7807845,16z/data=!4m5!3m4!1s0x47c5de25f43ac82d:0x7e6ba34cf4c92c79!8m2!3d52.2582876!4d4.7825869)
@@ -104,6 +117,7 @@ Right-of-way priority:
 ### Haarlem [(map)](https://www.google.com/maps/place/Haarlem,+Netherlands/@52.383839,4.6078594,13z)
 - Market Square
 - Herring for lunch?
+- Bike down to the beach
 - Haarlem Station [(website)](https://www.holland.com/global/tourism/destinations/more-destinations/haarlem/haarlem-station.htm)
 	- Art Nouveau station
 - Saint Bavo Basilica [(website)](https://www.bavo.nl/en/)
@@ -115,6 +129,7 @@ Right-of-way priority:
 	- Beautiful trees
 	- Napoleon has a palace there
 - Secret places in Haarlem [(guide)](https://www.holland.com/global/tourism/destinations/more-destinations/haarlem/haarlems-secrets.htm)
+- Corrie ten Boom Museum [(map)](https://www.google.com/maps/place/Ten+Boom+Museum/@52.3848615,4.6483973,15.15z/data=!4m6!3m5!1s0x47c5ef6b7f13ab81:0x27136033a77a4718!8m2!3d52.3822678!4d4.6353118!16s%2Fm%2F076zd23) [(website)](https://www.corrietenboom.com/en/home)
 
 ### Hoorn [(map)](https://www.google.com/maps/place/Hoorn,+Netherlands/@52.6464208,5.0519001,15z/data=!4m5!3m4!1s0x47c8a90c31fad5df:0xcf99fa4d78d3ef18!8m2!3d52.6423654!4d5.0602124)
 - Westfriesmuseum [(website)](https://www.westfriesmuseum.info/)
