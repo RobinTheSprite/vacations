@@ -3,6 +3,10 @@
 # Full Trip Schedule
 This is a day-by-day timeline of the trip for the biking group. Each item on the list has a starting and ending city, indicating where we will be traveling to each day. This will fill out more and more as trip planning continues.
 
+### The Brainstorm Board
+
+![brainstorm](brainstorm.jpg)
+
 #### The Route on Google Maps
 
 [Flight from Copenhagen to Paris](https://www.google.com/maps/dir/Copenhagen,+Denmark/Paris,+France/@52.0421116,3.9907007,6.25z/data=!4m15!4m14!1m5!1m1!1s0x4652533c5c803d23:0x4dd7edde69467b8!2m2!1d12.5683372!2d55.6760968!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3522219!2d48.856614!3e4!4e1)

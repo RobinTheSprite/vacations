@@ -2,7 +2,7 @@
 ![windmills](windmills.jpg)
 ### A Tour through Four Countries
 
-## Country Resources
+## Countries
 [France](countries/France.md) - [Belgium](countries/Belgium.md) - [Nederland](countries/nederland/Nederland.md) - [Denmark](countries/Denmark.md)
 
 ## Logistics
