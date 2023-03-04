@@ -8,6 +8,8 @@
 
 ### Reservations Required
 - Arc de Triomphe [(map)](https://www.google.com/maps/place/Arc+de+Triomphe/@48.8743309,2.3146499,14.18z/data=!4m6!3m5!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d!8m2!3d48.8737917!4d2.2950275!16zL20vMHp2Xw) [(website)](https://www.paris-arc-de-triomphe.fr/en/)
+	- Good views
+	- There's a pedestrian tunnel to the centre
 - Conciergerie [(map)](https://www.google.com/maps/place/Conciergerie/@48.8560148,2.3410106,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e1fd8767d47:0x90ca4b466cb6316a!8m2!3d48.8560114!4d2.3454953!16zL20vMGsxNno) [(website)](https://www.paris-conciergerie.fr/en/)
 	- The prison of Marie Antoinette
 - Catacombs [(map)](https://www.google.com/maps/place/Catacombs+of+Paris/@48.8334452,2.3332375,256m/data=!3m1!1e3!4m5!3m4!1s0x47e671b6c1d0b675:0xc8d7f073e62eb4b3!8m2!3d48.8339179!4d2.332391) [(website)](https://www.catacombes.paris.fr/en)
