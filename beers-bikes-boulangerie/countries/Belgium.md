@@ -7,15 +7,23 @@
 - Fine and fresh chocolate
 	- Find a local place
 - Market square with tower and carillon
+- There are windmills, too [(map)](https://www.google.com/maps/search/windmolen/@51.2151472,3.2375266,15.82z)
 - Basilica of the Holy Blood [(website)](https://www.holyblood.com/homepage-of-the-basilica-of-the-holy-blood)
 	- Romanesque and Gothic
 	- Founded by a Crusader
-- There are windmills, too
 - Flemish fries
-- Traditional Lacemaking
+- Breweries
+	- Beer Wall [(map)](https://www.google.com/maps/place/The+Beer+Wall/@51.2073158,3.2248894,17z/data=!3m1!4b1!4m6!3m5!1s0x47c35181a07dcea5:0xc295cd5debb94c6c!8m2!3d51.2073125!4d3.2270781!16s%2Fg%2F11s97544hp)
+	- Bruges Beer Experience [(map)](https://www.google.com/maps/place/Bruges+Beer+Experience/@51.2085486,3.2232439,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350cff7183a7d:0xb77a091a3606c081!8m2!3d51.2085453!4d3.2254326!16s%2Fg%2F11b6gq4fx7) [(website)](https://mybeerexperience.com/en)
 - Gruuthuse Museum [(website)](https://www.museabrugge.be/en)
 - Church of Our Lady [(website)](https://www.museabrugge.be/en)
-- Beer!
+- Saint John's Hospital [(map)](https://www.google.com/maps/place/Saint+John%E2%80%99s+Hospital/@51.2041017,3.2220432,17z/data=!3m1!4b1!4m6!3m5!1s0x47c350db3bd33d61:0xd0feb95d4036c6e7!8m2!3d51.2040984!4d3.2242319!16s%2Fm%2F0j3gj34) [(website)](https://www.museabrugge.be/en/visit-our-museums/our-museums-and-monuments/sint-janshospitaal)
+	- Museum of medical tools and artwork
+- Belfry of Bruges [(map)](https://www.google.com/maps/place/Belfry+of+Bruges/@51.2085486,3.2232439,17z/data=!4m6!3m5!1s0x47c350daa9690e8b:0x69546ff963bd8158!8m2!3d51.2081466!4d3.2248011!16zL20vMGRyamQy) [(website)](https://www.museabrugge.be/en/visit-our-museums/our-museums-and-monuments/belfort)
+- Minnewater Park [(map)](https://www.google.com/maps/place/Minnewaterpark/@51.2001164,3.2272819,17z/data=!4m6!3m5!1s0x47c350c2c1153d0d:0x7e87b472ada44cab!8m2!3d51.1995291!4d3.225273!16s%2Fg%2F122qmjmh)
+	- For your serenity
+- Rosary Quay [(map)](https://www.google.com/maps/place/Rosary+Quay/@51.2075279,3.2283482,18.21z/data=!4m6!3m5!1s0x47c35188c07d35ab:0xa6b9003ff69ffe0d!8m2!3d51.2074026!4d3.2278066!16s%2Fg%2F11h2n64pl3)
+	- Do it for the 'gram
 
 ## Ghent [(map)](https://www.google.com/maps/place/Ghent,+Belgium/@51.0843473,3.5744801,44749m/data=!3m2!1e3!4b1!4m5!3m4!1s0x47c370e1339443ad:0x40099ab2f4d5140!8m2!3d51.0500143!4d3.7303305)
 - Tourism site: [https://visit.gent.be/en](https://visit.gent.be/en)
