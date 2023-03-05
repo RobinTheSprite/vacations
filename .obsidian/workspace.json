@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f64b708500a7874",
+        "id": "44c98d3f66bcf456",
         "type": "tabs",
         "children": [
           {
-            "id": "a713987f9b1a9ba5",
+            "id": "0d661fca3824a7a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a713987f9b1a9ba5",
+  "active": "0d661fca3824a7a0",
   "lastOpenFiles": [
     "beers-bikes-boulangerie/Schedule.md",
     "beers-bikes-boulangerie/brainstorm.jpg",
