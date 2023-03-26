@@ -2,11 +2,6 @@
 
 # France
 
-## Country Notes
-
-- Ettiquette
-	- Greet shopkeepers with a "bonjour" when you walk in
-
 ## Paris [(map)](https://www.google.com/maps/place/Paris,+France/@48.8313773,2.4615525,22395m/data=!3m1!1e3!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.8565835!4d2.3521042)
 - Basically needs no introduction
 - **Museums are closed on Tuesdays in Paris**
