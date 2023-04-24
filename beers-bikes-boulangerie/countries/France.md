@@ -4,7 +4,6 @@
 
 ## Paris [(map)](https://www.google.com/maps/place/Paris,+France/@48.8313773,2.4615525,22395m/data=!3m1!1e3!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.8565835!4d2.3521042)
 - Basically needs no introduction
-- **Museums are closed on Tuesdays in Paris**
 
 ### Reservations Required
 - Arc de Triomphe [(map)](https://www.google.com/maps/place/Arc+de+Triomphe/@48.8743309,2.3146499,14.18z/data=!4m6!3m5!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d!8m2!3d48.8737917!4d2.2950275!16zL20vMHp2Xw) [(website)](https://www.paris-arc-de-triomphe.fr/en/)
@@ -40,7 +39,6 @@
 	- Science and industrial museum
 	- Has Foucault's Pendulum
 - Musée d'Orsay [(map)](https://www.google.com/maps/place/Mus%C3%A9e+d'Orsay/@48.8610816,2.3318488,15z/data=!3m1!5s0x47e66e2bbe8a2bbd:0x8e449486ec0c88c8!4m5!3m4!1s0x47e66e2bb630941b:0xd071bd8cb14423d8!8m2!3d48.8599614!4d2.3265614) [(website)](https://www.musee-orsay.fr/en)
-	- **Not open on Tuesdays**
 	- 19th and 20th Century artworks
 		- Monet
 		- Van Gough

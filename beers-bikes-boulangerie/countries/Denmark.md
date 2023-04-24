@@ -14,10 +14,12 @@
 - Plug is the European two-prong plug
 - Everyone speaks English pretty much
 	- Here's some basic Danish phrases for you, though: https://www.youtube.com/watch?v=J44vpSYsQm8
-- Some dont's
+- Some general European etiquette
 	- Don't stand in the bike lanes
 	- Keep it quiet on public transport
-		- There are quiet zones on trains/trams, but also 
+		- I mean, you can talk, but take your cues from the people around you as far as volume goes
+		- There are also dedicated quiet zones where you really do have to be quiet
+- LEGO is the plural of LEGO (just fyi)
 
 ## Island of Sjælland (Zealand)
 #### Copenhagen [(map)](https://www.google.com/maps/place/Copenhagen,+Denmark/@55.6713442,12.5237846,12z/data=!3m1!4b1!4m5!3m4!1s0x4652533c5c803d23:0x4dd7edde69467b8!8m2!3d55.6760841!4d12.5683594)

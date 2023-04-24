@@ -13,6 +13,10 @@ Right-of-way priority:
 4. Cars
 5. Pedestrians
 
+- **Bikes have priority on bike paths. Standing in one is like standing in the middle of the road.**
+	- Bike paths (Fietspaden) are usually colored red
+	- There's usually dedicated pedestrian paths as well
+- You might want to grab some Euro coins from an ATM at some point
 - In bars, get the server's attention through eye contact
 - Coffeshop means cannabis shop
 
