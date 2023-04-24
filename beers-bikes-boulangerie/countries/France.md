@@ -4,6 +4,7 @@
 
 ## Paris [(map)](https://www.google.com/maps/place/Paris,+France/@48.8313773,2.4615525,22395m/data=!3m1!1e3!4m5!3m4!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!8m2!3d48.8565835!4d2.3521042)
 - Basically needs no introduction
+- Google Maps list of all activities: https://goo.gl/maps/VEBXa1uVKJCbd66f7
 
 ### Reservations Required
 - Arc de Triomphe [(map)](https://www.google.com/maps/place/Arc+de+Triomphe/@48.8743309,2.3146499,14.18z/data=!4m6!3m5!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d!8m2!3d48.8737917!4d2.2950275!16zL20vMHp2Xw) [(website)](https://www.paris-arc-de-triomphe.fr/en/)
