@@ -16,9 +16,11 @@ Right-of-way priority:
 - **Bikes have priority on bike paths. Standing in one is like standing in the middle of the road.**
 	- Bike paths (Fietspaden) are usually colored red
 	- There's usually dedicated pedestrian paths as well
-- You might want to grab some Euro coins from an ATM at some point
+- There's quite a bit of cash payment here, so maybe hit an ATM
+- Most everyone speaks English, but don't be afraid to try some Dutch!
+	- Offering free lessons anytime! *- Mark*
 - In bars, get the server's attention through eye contact
-- Coffeshop means cannabis shop
+- Coffeshop means cannabis shop. If you want coffee, go to a cafe.
 
 ## South Holland
 ### Rotterdam [(map)](https://www.google.com/maps/place/Rotterdam,+Netherlands/@51.9280712,4.4207887,12z/data=!3m1!4b1!4m5!3m4!1s0x47c5b7605f54c47d:0x5229bbac955e4b85!8m2!3d51.9244198!4d4.4777226)

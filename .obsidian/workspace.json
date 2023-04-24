@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
+                "file": "beers-bikes-boulangerie/countries/Belgium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
+                "file": "beers-bikes-boulangerie/countries/Belgium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md",
+                "file": "beers-bikes-boulangerie/countries/Belgium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beers-bikes-boulangerie/countries/nederland/Nederland.md"
+                "file": "beers-bikes-boulangerie/countries/Belgium.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "0d661fca3824a7a0",
   "lastOpenFiles": [
-    "beers-bikes-boulangerie/countries/Denmark.md",
-    "beers-bikes-boulangerie/countries/nederland/Nederland.md",
     "beers-bikes-boulangerie/Schedule.md",
+    "beers-bikes-boulangerie/countries/Belgium.md",
+    "beers-bikes-boulangerie/countries/nederland/Nederland.md",
+    "beers-bikes-boulangerie/countries/Denmark.md",
     "beers-bikes-boulangerie/countries/France.md",
     "beers-bikes-boulangerie/brainstorm.jpg",
     "beers-bikes-boulangerie/countries/brainstorm.jpg",
     "beers-bikes-boulangerie/Overview.md",
-    "beers-bikes-boulangerie/countries/Belgium.md",
     "beers-bikes-boulangerie/countries/nederland/road-signs.md",
     "Dutch.md",
     "beers-bikes-boulangerie/Bikes.md",
