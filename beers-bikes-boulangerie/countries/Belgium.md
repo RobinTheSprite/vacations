@@ -4,6 +4,7 @@
 
 ## Country Notes
 
+- Google Maps list of all activities: https://goo.gl/maps/UAyZpXaq5rktUiQA9
 - A lot of stuff closes down at 6 PM and on Sundays
 	- Bars and museums are usually open
 - Same rules about bikes and bike lanes here
