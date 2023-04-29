@@ -19,40 +19,40 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 
 1. **May 11th**: Copenhagen
 	- Accommodation: [STAY Nordhavn](https://www.google.com/maps/place/STAY+Nordhavn/@55.7090262,12.5919362,17z/data=!3m1!4b1!4m8!3m7!1s0x4652536f63fd62f7:0x416d1e39a4535976!5m2!4m1!1i2!8m2!3d55.7090232!4d12.5941249)
-2. Layover: Copenhagen
-3. Layover: Copenhagen
+2. **May 12th**: Layover: Copenhagen
+3. **May 13th**: Layover: Copenhagen
 4. **May 14th**: Copenhagen - Paris
 	- Accommodation: [Residence Inn at Charles de Gaulle](https://www.google.com/maps/place/Residence+Inn+by+Marriott+Paris+Charles+de+Gaulle+Central+Airport/@49.0085254,2.5492476,17.75z/data=!4m8!3m7!1s0x47e615e99c8100e1:0x37471713b70df14d!5m2!4m1!1i2!8m2!3d49.0086145!4d2.5492074)
-5. Layover: Paris
+5. **May 15th**: Layover: Paris
 	- Change of Accommodation: [Gare de Lyon Courtyard](https://www.google.com/maps/place/Courtyard+by+Marriott+Paris+Gare+de+Lyon/@48.8490825,2.366516,15.5z/data=!4m8!3m7!1s0x47e6721ca8d17de9:0x7a5a6955cce83c07!5m2!4m1!1i2!8m2!3d48.8451267!4d2.3712969)
 	- Walking tour of City Center in the morning
 	- 12:30 PM St Chappelle tour
 		- Parents also touring the Conciergerie
 	- The Louvre
 	- Boat cruise on the Seine
-1. Layover: Paris
+6. **May 16th**: Layover: Paris
 	- Catacombs of Paris
-1. **May 17th**: Paris - Bruges (Ghent?)
+7. **May 17th**: Paris - Bruges (Ghent?)
 	- Accommodation: [Grand Hotel Normandy](https://www.google.com/maps/place/Grand+Hotel+Normandy/@51.208436,3.2293056,15.57z/data=!4m9!3m8!1s0x47c350d8318bfffd:0x1451f31c63d31a37!5m2!4m1!1i2!8m2!3d51.2078813!4d3.2153783!16s%2Fg%2F11rfp8h767)
-2. Layover: Bruges
-3. **May 19th**: Bruges - Vlissingen
+8. **May 18th**: Layover: Bruges
+9. **May 19th**: Bruges - Vlissingen
 	- We get our bikes in the morning
 	- Accommodation: [Stadshotel Vlissingen](https://www.google.com/maps/place/Stadshotel+Vlissingen/@51.4432525,3.571842,17z/data=!3m1!4b1!4m8!3m7!1s0x47c49969cb48777b:0x51d901928427c2d9!5m2!4m1!1i2!8m2!3d51.4432492!4d3.5740307)
-4. **May 20th**: Vlissingen - Zierikzee
+10. **May 20th**: Vlissingen - Zierikzee
 	- Accommodation: [B&B De Schuur](https://www.google.com/maps/place/B%26B+De+Schuur/@51.6480168,3.9141933,17z/data=!3m1!4b1!4m8!3m7!1s0x47c4f5636ff67715:0xf3e3fde84713e69a!5m2!4m1!1i2!8m2!3d51.6479732!4d3.9163711)
-5. **May 21st**: Zierikzee - Willemstad
+11. **May 21st**: Zierikzee - Willemstad
 	- Accommodation: [Het Wapen](https://www.google.com/maps/place/Het+Wapen+%7C+Willemstad/@51.6943437,4.4398815,209m/data=!3m1!1e3!4m8!3m7!1s0x47c43957f5714003:0xc91d83bf21221cb1!5m2!4m1!1i2!8m2!3d51.6945279!4d4.4398881!5m1!1e3)
-6. **May 22nd**: Willemstad - Dordrecht
+12. **May 22nd**: Willemstad - Dordrecht
 	- Accommodation: [StayOkay Hostel Dordrecht](https://www.google.com/maps/place/Stayokay+Hostel+Dordrecht/@51.7993226,4.7594223,13.75z/data=!4m8!3m7!1s0x47c429c6096763af:0x1745506f814e76d4!5m2!4m1!1i2!8m2!3d51.8104041!4d4.751512)
-7. **May 23rd**: Dordrecht - Gouda
+13. **May 23rd**: Dordrecht - Gouda
 	- Accommodation: [Canalhouse Aan de Gouwe](https://www.google.com/maps/place/Canalhouse+Aan+de+Gouwe/@52.0090055,4.7121718,17z/data=!4m8!3m7!1s0x47c5d4031aebffff:0xf6bba778284bc140!5m2!4m1!1i2!8m2!3d52.0091084!4d4.7115929)
-8. **May 24th:** Gouda - Leiden
+14. **May 24th:** Gouda - Leiden
 	- Accommodation: [Lange Mare City Hotel](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.161855,4.4910851,17.3z/data=!4m18!1m8!3m7!1s0x47c5c692d3815259:0x16c2a9b426d73e7a!2sLange+Mare,+Leiden,+Netherlands!3b1!8m2!3d52.161253!4d4.4904366!16s%2Fg%2F121vxpr_!3m8!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556!16s%2Fg%2F11xfslwmf)
 		- Still labeled as Best Western on the map, but it's the same hotel
-9.  **May 25th:** Leiden - Amsterdam
+15.  **May 25th:** Leiden - Amsterdam
 	- Accommodation: [Holiday Inn Express Sloterdijk](https://www.google.com/maps/place/Holiday+Inn+Express+Amsterdam+-+Sloterdijk+Station,+an+IHG+Hotel/@52.3892744,4.8440194,15.79z/data=!4m9!3m8!1s0x47c5e2592e8d5425:0xb3b7fd7dcd2ccc6b!5m2!4m1!1i2!8m2!3d52.3883453!4d4.8375615!16s%2Fg%2F1tl0wjm1)
-10. Layover: Amsterdam
+16. **May 26th**: Layover: Amsterdam
 	- Van Gough Museum, 10:30 and 11:15
-11. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
-12. **May 28th:** Mark and Johnna: Luttelgeest - Groningen
-13. **May 29th:** Mark and Johnna: Groningen - Amsterdam
+17. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
+18. **May 28th:** Mark and Johnna: Luttelgeest - Groningen
+19. **May 29th:** Mark and Johnna: Groningen - Amsterdam
