@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beers-bikes-boulangerie/Maps.md",
+                "file": "beers-bikes-boulangerie/Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beers-bikes-boulangerie/Maps.md",
+                "file": "beers-bikes-boulangerie/Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beers-bikes-boulangerie/Maps.md",
+                "file": "beers-bikes-boulangerie/Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beers-bikes-boulangerie/Maps.md"
+                "file": "beers-bikes-boulangerie/Schedule.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "25d61c825760d162",
   "lastOpenFiles": [
+    "beers-bikes-boulangerie/Maps.md",
     "beers-bikes-boulangerie/Bikes.md",
     "beers-bikes-boulangerie/brainstorm.jpg",
-    "beers-bikes-boulangerie/Maps.md",
     "beers-bikes-boulangerie/Overview.md",
     "beers-bikes-boulangerie/countries/nederland/road-signs.md",
     "beers-bikes-boulangerie/countries/nederland/Nederland.md",

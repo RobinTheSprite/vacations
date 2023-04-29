@@ -52,3 +52,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 9.  **May 25th:** Leiden - Amsterdam
 	- Accommodation: [Holiday Inn Express Sloterdijk](https://www.google.com/maps/place/Holiday+Inn+Express+Amsterdam+-+Sloterdijk+Station,+an+IHG+Hotel/@52.3892744,4.8440194,15.79z/data=!4m9!3m8!1s0x47c5e2592e8d5425:0xb3b7fd7dcd2ccc6b!5m2!4m1!1i2!8m2!3d52.3883453!4d4.8375615!16s%2Fg%2F1tl0wjm1)
 10. Layover: Amsterdam
+	- Van Gough Museum, 10:30 and 11:15
+11. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
+12. **May 28th:** Mark and Johnna: Luttelgeest - Groningen
+13. **May 29th:** Mark and Johnna: Groningen - Amsterdam
