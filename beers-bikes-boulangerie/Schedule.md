@@ -54,5 +54,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 16. **May 26th**: Layover: Amsterdam
 	- Van Gough Museum, 10:30 and 11:15
 17. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
+- John, Callie, Kendra, and David leave
 18. **May 28th:** Mark and Johnna: Luttelgeest - Groningen
 19. **May 29th:** Mark and Johnna: Groningen - Amsterdam
+20. **May 30th** Everyone else leaves
