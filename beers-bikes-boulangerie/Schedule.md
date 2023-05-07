@@ -50,7 +50,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 	- Accommodation: [Lange Mare City Hotel](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.161855,4.4910851,17.3z/data=!4m18!1m8!3m7!1s0x47c5c692d3815259:0x16c2a9b426d73e7a!2sLange+Mare,+Leiden,+Netherlands!3b1!8m2!3d52.161253!4d4.4904366!16s%2Fg%2F121vxpr_!3m8!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556!16s%2Fg%2F11xfslwmf)
 		- Still labeled as Best Western on the map, but it's the same hotel
 15.  **May 25th:** Leiden - Amsterdam
-	- Accommodation: [Holiday Inn Express Sloterdijk](https://www.google.com/maps/place/Holiday+Inn+Express+Amsterdam+-+Sloterdijk+Station,+an+IHG+Hotel/@52.3892744,4.8440194,15.79z/data=!4m9!3m8!1s0x47c5e2592e8d5425:0xb3b7fd7dcd2ccc6b!5m2!4m1!1i2!8m2!3d52.3883453!4d4.8375615!16s%2Fg%2F1tl0wjm1)
+	- Accommodation: [Landgoed Oud-Poelgeest](https://maps.app.goo.gl/cPW2L97bDfKVBfLV6)
 16. **May 26th**: Layover: Amsterdam
 	- Van Gough Museum, 10:30 and 11:15
 17. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
