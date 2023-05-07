@@ -47,11 +47,11 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 13. **May 23rd**: Dordrecht - Gouda
 	- Accommodation: [Canalhouse Aan de Gouwe](https://www.google.com/maps/place/Canalhouse+Aan+de+Gouwe/@52.0090055,4.7121718,17z/data=!4m8!3m7!1s0x47c5d4031aebffff:0xf6bba778284bc140!5m2!4m1!1i2!8m2!3d52.0091084!4d4.7115929)
 14. **May 24th:** Gouda - Leiden
-	- Accommodation: [Lange Mare City Hotel](https://www.google.com/maps/place/Best+Western+City+Hotel+Leiden/@52.161855,4.4910851,17.3z/data=!4m18!1m8!3m7!1s0x47c5c692d3815259:0x16c2a9b426d73e7a!2sLange+Mare,+Leiden,+Netherlands!3b1!8m2!3d52.161253!4d4.4904366!16s%2Fg%2F121vxpr_!3m8!1s0x47c5c6ecd69dadc1:0x6502bc4fb3515802!5m2!4m1!1i2!8m2!3d52.161969!4d4.4900556!16s%2Fg%2F11xfslwmf)
+	- Accommodation: [Landgoed Oud-Poelgeest](https://maps.app.goo.gl/cPW2L97bDfKVBfLV6)
 		- Still labeled as Best Western on the map, but it's the same hotel
 15.  **May 25th:** Leiden - Amsterdam
-	- Accommodation: [Landgoed Oud-Poelgeest](https://maps.app.goo.gl/cPW2L97bDfKVBfLV6)
-16. **May 26th**: Layover: Amsterdam
+	- Accommodation: [Holiday Inn Express Sloterdijk](https://maps.app.goo.gl/b9fK48AuRYdnDdhH8)
+	16. **May 26th**: Layover: Amsterdam
 	- Van Gough Museum, 10:30 and 11:15
 17. **May 27th:** Mark and Johnna: Amsterdam - Luttelgeest
 18. **May 28th:** Mark and Johnna: Luttelgeest - Groningen
