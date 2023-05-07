@@ -23,6 +23,7 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 3. **May 13th**: Layover: Copenhagen
 4. **May 14th**: Copenhagen - Paris
 	- Accommodation: [Residence Inn at Charles de Gaulle](https://www.google.com/maps/place/Residence+Inn+by+Marriott+Paris+Charles+de+Gaulle+Central+Airport/@49.0085254,2.5492476,17.75z/data=!4m8!3m7!1s0x47e615e99c8100e1:0x37471713b70df14d!5m2!4m1!1i2!8m2!3d49.0086145!4d2.5492074)
+	- David and Kendra join the party
 5. **May 15th**: Layover: Paris
 	- Change of Accommodation: [Gare de Lyon Courtyard](https://www.google.com/maps/place/Courtyard+by+Marriott+Paris+Gare+de+Lyon/@48.8490825,2.366516,15.5z/data=!4m8!3m7!1s0x47e6721ca8d17de9:0x7a5a6955cce83c07!5m2!4m1!1i2!8m2!3d48.8451267!4d2.3712969)
 	- Walking tour of City Center in the morning
