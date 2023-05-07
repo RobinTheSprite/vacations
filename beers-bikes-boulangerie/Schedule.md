@@ -48,7 +48,6 @@ This is a day-by-day timeline of the trip for the biking group. Each item on the
 	- Accommodation: [Canalhouse Aan de Gouwe](https://www.google.com/maps/place/Canalhouse+Aan+de+Gouwe/@52.0090055,4.7121718,17z/data=!4m8!3m7!1s0x47c5d4031aebffff:0xf6bba778284bc140!5m2!4m1!1i2!8m2!3d52.0091084!4d4.7115929)
 14. **May 24th:** Gouda - Leiden
 	- Accommodation: [Landgoed Oud-Poelgeest](https://maps.app.goo.gl/cPW2L97bDfKVBfLV6)
-		- Still labeled as Best Western on the map, but it's the same hotel
 15.  **May 25th:** Leiden - Amsterdam
 	- Accommodation: [Holiday Inn Express Sloterdijk](https://maps.app.goo.gl/b9fK48AuRYdnDdhH8)
 16. **May 26th**: Layover: Amsterdam
