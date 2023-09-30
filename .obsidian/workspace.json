@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7de912e4b3e3d5f6",
+        "id": "91724d5e470dc064",
         "type": "tabs",
         "children": [
           {
-            "id": "25d61c825760d162",
+            "id": "006427f0a6576fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
+                "file": "campaign-to-the-coast/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
+                "file": "campaign-to-the-coast/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md",
+                "file": "campaign-to-the-coast/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beers-bikes-boulangerie/Schedule.md"
+                "file": "campaign-to-the-coast/Overview.md"
               }
             }
           }
@@ -154,8 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25d61c825760d162",
+  "active": "006427f0a6576fed",
   "lastOpenFiles": [
+    "README.md",
+    "campaign-to-the-coast/Overview.md",
+    "campaign-to-the-coast",
+    "campaign-to-the-coast.md",
+    "beers-bikes-boulangerie/Schedule.md",
     "beers-bikes-boulangerie/Maps.md",
     "beers-bikes-boulangerie/Bikes.md",
     "beers-bikes-boulangerie/brainstorm.jpg",
@@ -165,7 +170,6 @@
     "beers-bikes-boulangerie/countries/Belgium.md",
     "beers-bikes-boulangerie/countries/France.md",
     "beers-bikes-boulangerie/countries/Denmark.md",
-    "beers-bikes-boulangerie/Schedule.md",
     "beers-bikes-boulangerie/countries/brainstorm.jpg",
     "Dutch.md",
     "vacations/beers-bikes-boulangerie/Overview.md"

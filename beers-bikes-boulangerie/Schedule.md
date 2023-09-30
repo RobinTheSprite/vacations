@@ -1,4 +1,4 @@
-### [Beers, Bikes, and Boulangerie](Overview.md)
+### [Beers, Bikes, and Boulangerie](beers-bikes-boulangerie/Overview.md)
 
 # Full Trip Schedule
 This is a day-by-day timeline of the trip for the biking group. Each item on the list has a starting and ending city, indicating where we will be traveling to each day. This will fill out more and more as trip planning continues.
