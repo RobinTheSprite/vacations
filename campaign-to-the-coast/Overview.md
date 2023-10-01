@@ -6,3 +6,7 @@ Slovenia has been in the back of our minds ever since. In every discussion about
 
 I propose an east-to-west traversal of the country, from the provincial city of Maribor all the way to the Adriatic coast, to the village of Piran. Along the way we will explore castles, eat marvelous food, gawk at the mountains, and drink copious amounts of good Slovene wine.
 ## [Proposed Cities](https://maps.app.goo.gl/5Tj7WXyMAXsPEW348)
+
+**Sources**
+
+https://www.cyclingslovenia.com/self-guided/best-of-slovenia
